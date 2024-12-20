@@ -1,0 +1,1 @@
+clang++ -fdeclspec -Wall -Wextra -Wpedantic -Wshadow -Wformat=2 -Wcast-align -Wconversion -Wsign-conversion -Wnull-dereference -g3 -O0 -c ./test.cpp -o ./test.o && clang++ -fdeclspec -Wall -Wextra -Wpedantic -Wshadow -Wformat=2 -Wcast-align -Wconversion -Wsign-conversion -Wnull-dereference -g3 -O0 ./test.o -o ./outDebug
