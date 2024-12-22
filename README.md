@@ -1,6 +1,6 @@
 # Bank Management System
 
-![Screenshot](Pics/Screenshot.png)
+![Screenshot](Pics/screenshot.gif)
 
 Terminal C++ program, let users manage a bank system with clients.
 
