@@ -4,7 +4,8 @@
 
 Terminal C++ program, let users manage a bank system with clients.
 
-NOTE: Tested on Linux only.
+> [!NOTE]
+> Tested in Linux only.
 
 ---
 ## How to use
@@ -12,8 +13,11 @@ NOTE: Tested on Linux only.
 2. Build the project by running `Make.sh` file.
 3. Run the program, use `.\outDebug`.
 
+> [!NOTE]
+> This project use Clang as a compiler.
+
 ---
-## Files
+## Files structure
 1. Main file is `test.cpp`.
 2. `Clients.txt`: Stores clients data.
 3. `Currencies.txt`: Stores countries currency data.
