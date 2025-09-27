@@ -1,17 +1,11 @@
 # Bank Management System
 
-![Screenshot](Pics/Screenshot.png)
-
 Terminal C++ program, let users manage a bank system with clients.
 
 > [!NOTE]
 > Tested in Linux only.
 
 ![Screenshot](Pics/screenshot.gif)
-
-Terminal C++ program, let users manage a bank system with clients.
-
-NOTE: Tested on Linux only.
 
 ---
 ## How to use
